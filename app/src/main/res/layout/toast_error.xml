@@ -25,7 +25,7 @@
             android:layout_marginHorizontal="20dp"
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:src="@drawable/ic_baseline_error_24"
+            android:src="@drawable/ic_baseline_close_24"
             />
         <TextView
             android:textStyle="bold"
